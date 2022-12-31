@@ -1,0 +1,15 @@
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\bin\Debug\net6.0\Quarto.exe
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\bin\Debug\net6.0\Quarto.deps.json
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\bin\Debug\net6.0\Quarto.runtimeconfig.json
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\bin\Debug\net6.0\Quarto.dll
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\bin\Debug\net6.0\Quarto.pdb
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\Quarto.csproj.AssemblyReference.cache
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\Quarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\Quarto.AssemblyInfoInputs.cache
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\Quarto.AssemblyInfo.cs
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\Quarto.csproj.CoreCompileInputs.cache
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\Quarto.dll
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\refint\Quarto.dll
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\Quarto.pdb
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\Quarto.genruntimeconfig.cache
+C:\Users\vande\OneDrive\Documentos\PROJETOS\ws-vs2022C#\Quarto\Quarto\obj\Debug\net6.0\ref\Quarto.dll
